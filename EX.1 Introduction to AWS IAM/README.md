@@ -38,7 +38,8 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Added user-2 to the EC2-Support group  
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
-(Add screenshot here)
+  <img width="1255" height="604" alt="image" src="https://github.com/user-attachments/assets/9885bda6-4b95-4dfe-99fd-be31cdf646d6" />
+
 
 ### Task 3: Test IAM User Permissions
 - Logged in using IAM sign-in URL  
