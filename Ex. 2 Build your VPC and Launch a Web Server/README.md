@@ -99,21 +99,19 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1259" height="636" alt="image" src="https://github.com/user-attachments/assets/bf517230-eefb-4f08-aeee-f7fc258ae23c" />
 
----
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
 
----
+<img width="1256" height="598" alt="image" src="https://github.com/user-attachments/assets/a80bc42b-ca2c-4720-bf9c-6709ff2d28b4" />
+
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1247" height="595" alt="image" src="https://github.com/user-attachments/assets/c925e009-b9ce-41f1-aeae-eb8193aa59fd" />
 
----
 
 ## Result 
 
